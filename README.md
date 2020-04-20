@@ -7,3 +7,5 @@ Aim of the Project :
  3) To use accurate ultrasonic ranging method by the use of sensors to detect obstacles and to notify the user about their presence near them in different directions through vibrations and sound beeps.  
  4) To make it battery operated, long lasting, portable, open source, easily usable and explicit in calculations. 
  5) To make the device easily affordable by everyone, the total cost being less.
+ 
+![power vision ](https://user-images.githubusercontent.com/53991169/79728536-b4d5a280-830b-11ea-8414-24fbcf197eba.png)
