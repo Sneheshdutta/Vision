@@ -10,4 +10,4 @@ Aim of the Project :
  
 ![power vision ](https://user-images.githubusercontent.com/53991169/79728536-b4d5a280-830b-11ea-8414-24fbcf197eba.png)
 
-Read more from http://developertiru.me/
+Read more from https://developertiru.me/
