@@ -9,3 +9,5 @@ Aim of the Project :
  5) To make the device easily affordable by everyone, the total cost being less.
  
 ![power vision ](https://user-images.githubusercontent.com/53991169/79728536-b4d5a280-830b-11ea-8414-24fbcf197eba.png)
+
+Read more from http://developertiru.me/
